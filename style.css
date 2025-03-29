@@ -149,7 +149,7 @@ body {
     transform-origin: 100% 100%;
 }
 
-.close .heart {
+.close .coracao {
     opacity: 0;
     animation: none;
 }
